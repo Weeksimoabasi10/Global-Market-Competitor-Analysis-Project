@@ -157,7 +157,18 @@ Note: Due to GitHub file size limitations, the dataset is not included in this r
 
 📷 Dashboard Preview
 
-*(Insert your Power BI screenshots here)*
+## 📷 Dashboard Preview
+
+![Executive Overview](IMAGES/EXECUTIVE%20OVERVIEW%20DASHBOARD%201.png)
+
+![Market Share](IMAGES/MARKET%20SHARE%20DASHBOARD%202.png)
+
+![Customer Insights](IMAGES/CUSTOMER%20INSIGHTS%20DASHBOARD%203.png)
+
+![Product & Pricing](IMAGES/PRODUCT%20PRICING%20DASHBOARD%204.png)
+
+![Market Opportunity](IMAGES/MARKET%20OPPORTUNITY%20DASHBOARD%205.png)
+
 
 
 
