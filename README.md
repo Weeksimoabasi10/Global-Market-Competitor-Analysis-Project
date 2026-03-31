@@ -167,7 +167,8 @@ Note: Due to GitHub file size limitations, the dataset is not included in this r
 
 ![Product & Pricing](IMAGES/PRODUCT%20PRICING%20DASHBOARD%204.png)
 
-![Market Opportunity](IMAGES/MARKET%20OPPORTUNITY%20DASHBOARD%205.png)
+![Market Opportunity](IMAGES/MARKET%20OPPURTUNITY%20DASHBOARD%205.png)
+
 
 
 
