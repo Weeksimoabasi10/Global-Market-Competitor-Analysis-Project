@@ -29,7 +29,13 @@ This project answers these questions using data analysis and visualization.
 * SQL Server (SSMS) – Data cleaning, transformation, and analysis
 * Power BI – Interactive dashboards and business intelligence
 
+📁 Dataset
 
+The dataset used for this project can be accessed here:
+
+🔗 https://www.kaggle.com/datasets/carrie1/ecommerce-data
+
+Note: Due to GitHub file size limitations, the dataset is not included in this repository.
 
 🧹 Data Preparation
 
