@@ -145,19 +145,8 @@ Note: Due to GitHub file size limitations, the dataset is not included in this r
 
 
 
-🧠 Business Recommendations
-
-* Expand aggressively in Spain (growth market)
-* Leverage premium pricing in EIRE
-* Maintain dominance in the UK while diversifying risk
-* Optimize pricing strategies in Germany & France
-* Scale globally successful products while adapting to local demand
-
-
-
 📷 Dashboard Preview
 
-## 📷 Dashboard Preview
 
 ![Executive Overview](IMAGES/EXECUTIVE%20OVERVIEW%20DASHBOARD%201.png)
 
@@ -170,12 +159,18 @@ Note: Due to GitHub file size limitations, the dataset is not included in this r
 ![Market Opportunity](IMAGES/MARKET%20OPPURTUNITY%20DASHBOARD%205.png)
 
 
+🧠 Business Recommendations
 
+* Expand aggressively in Spain (growth market)
+* Leverage premium pricing in EIRE
+* Maintain dominance in the UK while diversifying risk
+* Optimize pricing strategies in Germany & France
+* Scale globally successful products while adapting to local demand
 
 
 📌 Conclusion
 
-This project demonstrates the ability to:
+This project demonstrates my ability to:
 
 * Perform end-to-end data analysis
 * Translate data into business insights
